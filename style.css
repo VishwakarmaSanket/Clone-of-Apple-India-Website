@@ -125,6 +125,7 @@ button {
     background: url(/assets/images/hero_iphone_air__0gxyavihpiqu_small_2x.jpg);
     background-size: contain;
     background-position: center;
+    margin-bottom: 10px;
 }
 
 .content3 {
